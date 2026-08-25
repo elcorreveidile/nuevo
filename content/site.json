@@ -1,0 +1,7 @@
+{
+  "name": "PUB COOPER'S BARREL",
+  "description": "Pub inglés en el centro histórico de Estepona — cervezas artesanales, cócteles y música en directo.",
+  "url": "https://pubcoopersbarrel.com",
+  "defaultLocale": "es",
+  "locales": ["es", "en"]
+}

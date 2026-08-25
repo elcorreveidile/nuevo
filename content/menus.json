@@ -1,0 +1,18 @@
+[
+  {
+    "slug": "principal",
+    "locale": "es",
+    "items": [
+      { "label": "Inicio", "href": "/" },
+      { "label": "English", "href": "/en/coopers-barrel-pub-in-estepona/" }
+    ]
+  },
+  {
+    "slug": "principal-en",
+    "locale": "en",
+    "items": [
+      { "label": "Home", "href": "/en/coopers-barrel-pub-in-estepona/" },
+      { "label": "Español", "href": "/" }
+    ]
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "id": 0,
+    "path": "",
+    "slug": "home",
+    "locale": "es",
+    "title": "PUB COOPER'S BARREL",
+    "contentHtml": "<p><strong>[CONTENIDO PROVISIONAL — pendiente de extracción real vía wp-json]</strong></p><p>Cooper's Barrel es un auténtico pub inglés en el corazón del centro histórico de Estepona. Cervezas artesanales y cócteles destilados en un ambiente que celebra la amistad, las conversaciones animadas y la buena compañía.</p><p>Horario: domingo a jueves de 16:00 a 00:00 · viernes y sábado de 17:00 a 02:00.</p>",
+    "excerpt": "Pub inglés en Estepona: cervezas artesanales, cócteles y música en directo.",
+    "seo": {
+      "title": "PUB COOPER'S BARREL — Pub inglés en Estepona",
+      "description": "Auténtico pub inglés en el centro histórico de Estepona. Cervezas artesanales, cócteles, deporte en directo y música en vivo."
+    }
+  },
+  {
+    "id": 0,
+    "path": "en/coopers-barrel-pub-in-estepona",
+    "slug": "coopers-barrel-pub-in-estepona",
+    "locale": "en",
+    "title": "PUB COOPER'S BARREL ESTEPONA",
+    "contentHtml": "<p><strong>[PLACEHOLDER CONTENT — pending real extraction via wp-json]</strong></p><p>Cooper's Barrel is an authentic English pub in the heart of Estepona's historic centre. Craft beers and distilled cocktails in an environment that celebrates friendship, lively conversation and good company — the perfect place to watch the game, enjoy live music or just relax with friends.</p><p>Opening hours: Sunday–Thursday 16:00–00:00 · Friday–Saturday 17:00–02:00.</p>",
+    "excerpt": "Authentic English pub in Estepona: craft beers, cocktails and live music.",
+    "seo": {
+      "title": "PUB COOPER'S BARREL ESTEPONA — English pub",
+      "description": "Authentic English pub in the historic centre of Estepona. Craft beers, cocktails, live sports and live music on the Costa del Sol."
+    }
+  }
+]
