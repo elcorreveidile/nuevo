@@ -19,13 +19,15 @@ Abre `index.html` en cualquier navegador. No hace falta servidor.
 
 ## Cómo publicarla en internet (GitHub Pages)
 
-El repositorio ya incluye un flujo de trabajo (`.github/workflows/pages.yml`)
-que despliega la web automáticamente. Solo hay que activarlo una vez:
+Al ser un único archivo estático, se publica directamente desde la rama, sin
+ningún flujo de trabajo. Solo hay que activarlo una vez:
 
 1. En GitHub, entra en **Settings → Pages**.
-2. En **Build and deployment → Source**, elige **GitHub Actions**.
-3. Cuando estos cambios lleguen a la rama `main`, la web se publicará sola en:
+2. En **Build and deployment → Source**, elige **Deploy from a branch**.
+3. En **Branch**, selecciona `main` y la carpeta `/ (root)`, y pulsa **Save**.
+4. En un par de minutos la web quedará publicada en:
 
    `https://elcorreveidile.github.io/nuevo/`
 
-A partir de ahí, cada cambio en `main` vuelve a publicarla.
+A partir de ahí, cada cambio que llegue a `main` se publica solo.
+El archivo `.nojekyll` está para que GitHub sirva el sitio tal cual.
